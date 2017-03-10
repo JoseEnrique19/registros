@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_consulta" value="name:id_producto;datatype:int,name:producto;datatype:string,name:descripcion;datatype:string,name:existencias;datatype:int,name:precio_compra;datatype:real,name:precio_venta;datatype:real" />
+	<infoitem key="UD_consulta1" value="name:id_producto;datatype:int,name:producto;datatype:string,name:descripcion;datatype:string,name:existencias;datatype:int,name:precio_compra;datatype:real,name:precio_venta;datatype:real" />
+</info>
